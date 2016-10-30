@@ -1,0 +1,6 @@
+.sign-box .sign-logo{
+	width:100px;height:100px;margin:0 auto 10px;
+}
+.sign-box .sign-logo img{
+	display:block;width:100%;-webkit-border-radius:50%;border-radius:50%;
+}
